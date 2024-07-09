@@ -1,5 +1,7 @@
 # Ecommerce_Sales_Analysis
+
 Problem Statement: The initial report, prepared in Excel, needed migration or replication in Power BI. 
+
 Solution:
 • Analyzed the Excel report to identify the visuals and DAX formulas.
 • Recreated the report in Power BI, ensuring it mirrored the original.
