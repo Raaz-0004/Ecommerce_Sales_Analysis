@@ -4,7 +4,9 @@ Objective:
 
 Owner of Ecommerce store wants us to help them creat a dashboard to analyze online sales across india.
 
-Problem Statement: The initial report, prepared in Excel, needed migration or replication in Power BI. 
+Problem Statement:
+
+The initial report, prepared in Excel, needed migration or replication in Power BI. 
 
 Solution:
 
